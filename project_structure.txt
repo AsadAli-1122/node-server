@@ -1,0 +1,28 @@
+
+│
+├── db/
+│   └── index.js
+│
+├── middleware/
+│   ├── auth.js
+│   └── error.js
+│
+├── models/
+│   └── User.js
+│
+├── resolvers/
+│   └── index.js
+│
+├── schema/
+│   └── index.js
+│
+├── routes/
+│   └── auth.js
+│
+├── utils/
+│   ├── bcrypt.js
+│   ├── jwt.js
+│   └── validators.js
+│
+├── .env
+└── index.js
